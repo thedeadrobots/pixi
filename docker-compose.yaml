@@ -16,4 +16,4 @@ services:
     image: deadrobots/pixi:app
     ports:
       - "8000:8000"
-      - "8080:8080"
+      - "8090:8090"
